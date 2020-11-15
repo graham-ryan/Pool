@@ -23,4 +23,4 @@ For calculating final velocities after two balls collide, I was inspired by this
 # Q: What else would you like to do with this project?
 There are many ways I could have cleaned up the code. Though, overall I was really happy with the understandability and brevity of a lot of it.
 
-As a feature, it would be really fun to implement this in a web application with multiplayer!
+As a feature, it would be really fun to implement this in a web application with online multiplayer!
