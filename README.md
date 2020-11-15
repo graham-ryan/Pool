@@ -21,6 +21,6 @@ Collisions are checked for each ball by seeing if there are any other balls cont
 For calculating final velocities after two balls collide, I was inspired by this post on Stack Exchange: https://gamedev.stackexchange.com/a/7901
 
 # Q: What else would you like to do with this project?
-Overall, I could've made the code much cleaner. Though I was really happy with the result.
+There are many ways I could have cleaned up the code. Though, overall I was really happy with the result and brevity of a lot of it.
 
 As a feature, it would be really fun to implement this in a web application with multiplayer!
