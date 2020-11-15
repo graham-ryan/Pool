@@ -3,6 +3,8 @@
 
 An implementation of pool in Java.
 
+The .zip file contains an eclipse project which you can execute yourself.
+
 # Q: Why did you make this?
 I started working on this after I finished my second Java class at OSU, as I became confident with OOP concepts and Java programming. When beginning this project, I was interested in learning about GUIs, game loops, events, 2D graphics, and collisions - and a pool game seemed to apply all of these concepts.
 
