@@ -15,7 +15,7 @@ public class Power extends JFrame implements ChangeListener {
 	
 	// Contstructor
 	Power (){
-		slider = new JSlider(JSlider.HORIZONTAL, 1, 15, 15);  
+		slider = new JSlider(JSlider.HORIZONTAL, 1, 14, 14);  
 		panel = new JPanel();  
 		label = new JLabel();
 		label.setText("Shot Power");
